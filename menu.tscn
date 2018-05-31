@@ -1,0 +1,173 @@
+[gd_scene load_steps=80 format=2]
+
+[ext_resource path="res://start-screen_0000_Layer-73.png" type="Texture" id=1]
+[ext_resource path="res://start-screen_0001_Layer-72.png" type="Texture" id=2]
+[ext_resource path="res://start-screen_0002_Layer-71.png" type="Texture" id=3]
+[ext_resource path="res://start-screen_0003_Layer-70.png" type="Texture" id=4]
+[ext_resource path="res://start-screen_0004_Layer-69.png" type="Texture" id=5]
+[ext_resource path="res://start-screen_0005_Layer-68.png" type="Texture" id=6]
+[ext_resource path="res://start-screen_0006_Layer-67.png" type="Texture" id=7]
+[ext_resource path="res://start-screen_0007_Layer-66.png" type="Texture" id=8]
+[ext_resource path="res://start-screen_0008_Layer-65.png" type="Texture" id=9]
+[ext_resource path="res://start-screen_0009_Layer-64.png" type="Texture" id=10]
+[ext_resource path="res://start-screen_0010_Layer-63.png" type="Texture" id=11]
+[ext_resource path="res://start-screen_0011_Layer-62.png" type="Texture" id=12]
+[ext_resource path="res://start-screen_0012_Layer-61.png" type="Texture" id=13]
+[ext_resource path="res://start-screen_0013_Layer-60.png" type="Texture" id=14]
+[ext_resource path="res://start-screen_0014_Layer-59.png" type="Texture" id=15]
+[ext_resource path="res://start-screen_0015_Layer-58.png" type="Texture" id=16]
+[ext_resource path="res://start-screen_0016_Layer-57.png" type="Texture" id=17]
+[ext_resource path="res://start-screen_0017_Layer-56.png" type="Texture" id=18]
+[ext_resource path="res://start-screen_0018_Layer-55.png" type="Texture" id=19]
+[ext_resource path="res://start-screen_0019_Layer-54.png" type="Texture" id=20]
+[ext_resource path="res://start-screen_0020_Layer-53.png" type="Texture" id=21]
+[ext_resource path="res://start-screen_0021_Layer-52.png" type="Texture" id=22]
+[ext_resource path="res://start-screen_0022_Layer-51.png" type="Texture" id=23]
+[ext_resource path="res://start-screen_0023_Layer-50.png" type="Texture" id=24]
+[ext_resource path="res://start-screen_0024_Layer-49.png" type="Texture" id=25]
+[ext_resource path="res://start-screen_0025_Layer-48.png" type="Texture" id=26]
+[ext_resource path="res://start-screen_0026_Layer-47.png" type="Texture" id=27]
+[ext_resource path="res://start-screen_0027_Layer-46.png" type="Texture" id=28]
+[ext_resource path="res://start-screen_0028_Layer-45.png" type="Texture" id=29]
+[ext_resource path="res://start-screen_0029_Layer-44.png" type="Texture" id=30]
+[ext_resource path="res://start-screen_0030_Layer-43.png" type="Texture" id=31]
+[ext_resource path="res://start-screen_0031_Layer-42.png" type="Texture" id=32]
+[ext_resource path="res://start-screen_0032_Layer-41.png" type="Texture" id=33]
+[ext_resource path="res://start-screen_0033_Layer-40.png" type="Texture" id=34]
+[ext_resource path="res://start-screen_0034_Layer-39.png" type="Texture" id=35]
+[ext_resource path="res://start-screen_0035_Layer-38.png" type="Texture" id=36]
+[ext_resource path="res://start-screen_0036_Layer-37.png" type="Texture" id=37]
+[ext_resource path="res://start-screen_0037_Layer-36.png" type="Texture" id=38]
+[ext_resource path="res://start-screen_0038_Layer-35.png" type="Texture" id=39]
+[ext_resource path="res://start-screen_0039_Layer-34.png" type="Texture" id=40]
+[ext_resource path="res://start-screen_0040_Layer-33.png" type="Texture" id=41]
+[ext_resource path="res://start-screen_0041_Layer-32.png" type="Texture" id=42]
+[ext_resource path="res://start-screen_0042_Layer-31.png" type="Texture" id=43]
+[ext_resource path="res://start-screen_0043_Layer-30.png" type="Texture" id=44]
+[ext_resource path="res://start-screen_0044_Layer-29.png" type="Texture" id=45]
+[ext_resource path="res://start-screen_0045_Layer-28.png" type="Texture" id=46]
+[ext_resource path="res://start-screen_0046_Layer-27.png" type="Texture" id=47]
+[ext_resource path="res://start-screen_0047_Layer-26.png" type="Texture" id=48]
+[ext_resource path="res://start-screen_0048_Layer-25.png" type="Texture" id=49]
+[ext_resource path="res://start-screen_0049_Layer-24.png" type="Texture" id=50]
+[ext_resource path="res://start-screen_0050_Layer-23.png" type="Texture" id=51]
+[ext_resource path="res://start-screen_0051_Layer-22.png" type="Texture" id=52]
+[ext_resource path="res://start-screen_0052_Layer-21.png" type="Texture" id=53]
+[ext_resource path="res://start-screen_0053_Layer-20.png" type="Texture" id=54]
+[ext_resource path="res://start-screen_0054_Layer-19.png" type="Texture" id=55]
+[ext_resource path="res://start-screen_0055_Layer-18.png" type="Texture" id=56]
+[ext_resource path="res://start-screen_0056_Layer-17.png" type="Texture" id=57]
+[ext_resource path="res://start-screen_0057_Layer-16.png" type="Texture" id=58]
+[ext_resource path="res://start-screen_0058_Layer-15.png" type="Texture" id=59]
+[ext_resource path="res://start-screen_0059_Layer-14.png" type="Texture" id=60]
+[ext_resource path="res://start-screen_0060_Layer-13.png" type="Texture" id=61]
+[ext_resource path="res://start-screen_0061_Layer-12.png" type="Texture" id=62]
+[ext_resource path="res://start-screen_0062_Layer-11.png" type="Texture" id=63]
+[ext_resource path="res://start-screen_0063_Layer-10.png" type="Texture" id=64]
+[ext_resource path="res://start-screen_0064_Layer-9.png" type="Texture" id=65]
+[ext_resource path="res://start-screen_0065_Layer-8.png" type="Texture" id=66]
+[ext_resource path="res://start-screen_0066_Layer-7.png" type="Texture" id=67]
+[ext_resource path="res://start-screen_0067_Layer-6.png" type="Texture" id=68]
+[ext_resource path="res://start-screen_0068_Layer-5.png" type="Texture" id=69]
+[ext_resource path="res://start-screen_0069_Layer-4.png" type="Texture" id=70]
+[ext_resource path="res://start-screen_0070_Layer-3.png" type="Texture" id=71]
+[ext_resource path="res://start-screen_0071_Layer-2.png" type="Texture" id=72]
+[ext_resource path="res://start-screen_0072_Layer-1.png" type="Texture" id=73]
+[ext_resource path="res://play button.png" type="Texture" id=74]
+[ext_resource path="res://Button.gd" type="Script" id=75]
+[ext_resource path="res://play_pressed.png" type="Texture" id=76]
+[ext_resource path="res://TouchScreenButton.gd" type="Script" id=77]
+[ext_resource path="res://menu font.tres" type="DynamicFont" id=78]
+
+[sub_resource type="SpriteFrames" id=1]
+
+animations = [ {
+"frames": [ ExtResource( 1 ), ExtResource( 2 ), ExtResource( 3 ), ExtResource( 4 ), ExtResource( 5 ), ExtResource( 6 ), ExtResource( 7 ), ExtResource( 8 ), ExtResource( 9 ), ExtResource( 10 ), ExtResource( 11 ), ExtResource( 12 ), ExtResource( 13 ), ExtResource( 14 ), ExtResource( 15 ), ExtResource( 16 ), ExtResource( 17 ), ExtResource( 18 ), ExtResource( 19 ), ExtResource( 20 ), ExtResource( 21 ), ExtResource( 22 ), ExtResource( 23 ), ExtResource( 24 ), ExtResource( 25 ), ExtResource( 26 ), ExtResource( 27 ), ExtResource( 28 ), ExtResource( 29 ), ExtResource( 30 ), ExtResource( 31 ), ExtResource( 32 ), ExtResource( 33 ), ExtResource( 34 ), ExtResource( 35 ), ExtResource( 36 ), ExtResource( 37 ), ExtResource( 38 ), ExtResource( 39 ), ExtResource( 40 ), ExtResource( 41 ), ExtResource( 42 ), ExtResource( 43 ), ExtResource( 44 ), ExtResource( 45 ), ExtResource( 46 ), ExtResource( 47 ), ExtResource( 48 ), ExtResource( 49 ), ExtResource( 50 ), ExtResource( 51 ), ExtResource( 52 ), ExtResource( 53 ), ExtResource( 54 ), ExtResource( 55 ), ExtResource( 56 ), ExtResource( 57 ), ExtResource( 58 ), ExtResource( 59 ), ExtResource( 60 ), ExtResource( 61 ), ExtResource( 62 ), ExtResource( 63 ), ExtResource( 64 ), ExtResource( 65 ), ExtResource( 66 ), ExtResource( 67 ), ExtResource( 68 ), ExtResource( 69 ), ExtResource( 70 ), ExtResource( 71 ), ExtResource( 72 ), ExtResource( 73 ) ],
+"loop": true,
+"name": "default",
+"speed": 30.0
+} ]
+
+[node name="AnimatedSprite" type="AnimatedSprite"]
+
+position = Vector2( 518.088, 302.747 )
+scale = Vector2( 0.543117, 0.572745 )
+frames = SubResource( 1 )
+animation = "default"
+frame = 52
+playing = true
+_sections_unfolded = [ "Z Index" ]
+
+[node name="Button" type="Button" parent="." index="0"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = -282.0
+margin_top = -77.0
+margin_right = 197.0
+margin_bottom = 121.0
+rect_pivot_offset = Vector2( 0, 0 )
+rect_clip_content = false
+focus_mode = 2
+mouse_filter = 0
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 1
+toggle_mode = false
+enabled_focus_mode = 2
+shortcut = null
+group = null
+icon = ExtResource( 74 )
+flat = false
+align = 1
+script = ExtResource( 75 )
+
+[node name="TouchScreenButton" type="TouchScreenButton" parent="." index="1"]
+
+visible = false
+position = Vector2( -262.99, -35.6266 )
+normal = ExtResource( 74 )
+pressed = ExtResource( 76 )
+bitmask = null
+shape = null
+shape_centered = true
+shape_visible = true
+passby_press = false
+action = ""
+visibility_mode = 0
+script = ExtResource( 77 )
+
+[node name="Label" type="Label" parent="." index="2"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = -813.0
+margin_top = -547.0
+margin_right = 802.0
+margin_bottom = -201.0
+rect_pivot_offset = Vector2( 0, 0 )
+rect_clip_content = false
+mouse_filter = 2
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 4
+custom_fonts/font = ExtResource( 78 )
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_colors/font_color_shadow = Color( 0, 0, 0, 1 )
+custom_constants/shadow_offset_x = 11
+custom_constants/shadow_offset_y = 8
+text = "Trainopoly"
+align = 1
+valign = 1
+percent_visible = 1.0
+lines_skipped = 0
+max_lines_visible = -1
+_sections_unfolded = [ "Visibility", "custom_colors", "custom_constants", "custom_fonts" ]
+
+[connection signal="pressed" from="Button" to="Button" method="_on_Button_pressed"]
+
+
